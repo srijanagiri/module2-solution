@@ -37,7 +37,10 @@ div {
     border: 1px solid black;
   }
   .col-sm-6 {
-    width: 45%;
+    width: 48%;
+  }
+  #sushi1 {
+    width: 97%;
   }
 }
 @media (max-width: 767px) {
@@ -46,7 +49,7 @@ div {
     border: 1px solid black;
   }
   .col-xs-12 {
-    width: 100%;
+    width: 97%;
   }
 }
 h2 {
